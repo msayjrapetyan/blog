@@ -25,7 +25,7 @@ experience:
   - title: BlockChain
     company: MIREA
     company_url: ''
-    company_logo: mirea
+    company_logo: chain
     location: Russia
     date_start: '2019-09-01'
     date_end: '2020-01-01'
